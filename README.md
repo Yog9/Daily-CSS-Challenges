@@ -17,4 +17,5 @@ Tried a Daily CSS email challenge for mastering pure CSS images
 * CSS3
 
 ### Coming Soon 
-- [ ] Completing the Daily CSS Challenges
+- [ ] Completing the Daily CSS Challenge.
+- [ ] Using SASS and Pug for remaining CSS images.
